@@ -235,7 +235,7 @@ export const definitions: DefinitionWithExtend[] = [
         zigbeeModel: ["RB 262"],
         model: "RB 262",
         vendor: "Innr",
-        description: "E27 bulb",
+        description: "E22 bulb",
         extend: [m.light({turnsOffAtBrightness1: true})],
     },
     {
